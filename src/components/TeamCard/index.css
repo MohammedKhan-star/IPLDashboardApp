@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.link {
+  display: flex;
+  align-items: center;
+  background-color: #ffffff33;
+  height: 85%;
+  border-radius: 12px;
+  border: 1px solid #ffffff;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-bottom: 12px;
+  padding-top: 12px;
+  margin-left: 8px;
+  margin-right: 8px;
+  text-decoration: none;
+}
+.team-item {
+  list-style-type: none;
+  width: 50%;
+}
+.team-name {
+  text-align: center;
+  color: #ffffff;
+  font-family: bree serif;
+  font-size: 12px;
+  margin-left: 4px;
+}
+.team-logo {
+  width: 45px;
+  height: 45px;
+}

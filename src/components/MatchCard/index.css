@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.match-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #0f172a;
+  width: 48%;
+  border-radius: 16px;
+  padding-top: 12px;
+  padding-right: 16px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  margin-bottom: 24px;
+}
+.competing-team-logo{
+  max-width:60px;
+  height: 40px;
+}
+.competing-team-name {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'bree serif';
+  font-size: 16px;
+  flex-grow: 1;
+}
+.result{
+  text-align: center;
+  color:#ffffff;
+  font-family: 'Bree Serif';
+  font-size:10px;
+}
+.match-status{
+  font-size: 24px;
+}
+.match-won {
+  color: #18ed66;
+}
+.match-lost {
+  color: #e31a1a;
+}
