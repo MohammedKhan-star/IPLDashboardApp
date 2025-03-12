@@ -12,8 +12,8 @@
   padding-left: 16px;
   margin-bottom: 24px;
 }
-.competing-team-logo{
-  max-width:60px;
+.competing-team-logo {
+  max-width: 60px;
   height: 40px;
 }
 .competing-team-name {
@@ -23,13 +23,13 @@
   font-size: 16px;
   flex-grow: 1;
 }
-.result{
+.result {
   text-align: center;
-  color:#ffffff;
+  color: #ffffff;
   font-family: 'Bree Serif';
-  font-size:10px;
+  font-size: 10px;
 }
-.match-status{
+.match-status {
   font-size: 24px;
 }
 .match-won {

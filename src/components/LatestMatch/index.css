@@ -82,22 +82,21 @@ latest-match-details-2 {
     padding-left: 32px;
     padding-right: 0px;
   }
-  .latest-match-details-1{
-    width:48%;
+  .latest-match-details-1 {
+    width: 48%;
     align-self: flex-start;
-
   }
-  .latest-match-team-name{
-    font-size:36px;
+  .latest-match-team-name {
+    font-size: 36px;
   }
-  .latest-match-team-logo{
+  .latest-match-team-logo {
     max-width: 200px;
     max-height: 200px;
   }
-  .separator{
+  .separator {
     display: none;
   }
-  .latest-match-details-2{
+  .latest-match-details-2 {
     text-align: rigth;
     width: 33%;
     padding-left: 0px;
